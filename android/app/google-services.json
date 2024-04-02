@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695017501316",
+    "project_id": "finch-5ca25",
+    "storage_bucket": "finch-5ca25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695017501316:android:f65ffca2d8e2acd61a88d1",
+        "android_client_info": {
+          "package_name": "com.helixgade.finch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVGbOe0c2PTiR-NMhXfplHpINmftOWH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
